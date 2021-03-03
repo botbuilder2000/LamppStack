@@ -1,4 +1,4 @@
-# LamppStack
+# LAMPPStack
 Script to deploy a standardized LAMPP Stack
 
 ## What this does
